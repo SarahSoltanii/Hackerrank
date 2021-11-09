@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[3]:
+
 
 
 if __name__ == '__main__':
@@ -11,8 +11,6 @@ if __name__ == '__main__':
     print(a-b)
     print(a*b)   
 
-
-# In[ ]:
 
 
 
